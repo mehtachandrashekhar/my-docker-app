@@ -44,7 +44,7 @@ Once the Docker image is built, you can run the container:
 docker run -d -p 3000:3000 my-docker-app
 ```
 
-This will start the application and map it to port 5000 on your local machine. You can now access the app by navigating to `http://localhost:5000`.
+This will start the application and map it to port 5000 on your local machine. You can now access the app by navigating to `http://localhost:3000`.
 
 ## Using Docker Compose (Optional)
 
