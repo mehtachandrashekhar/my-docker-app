@@ -67,7 +67,3 @@ Contributions are welcome! Feel free to open a pull request or issue to suggest 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-This should give users a clear idea of how to get started with your Docker app and contribute if needed.
